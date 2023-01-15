@@ -1,6 +1,7 @@
 # 💻 Hola!!! Como estas!!!, Bienvenido a mi perfil, te saluda Raúl Trelles
 
 *Soy muy comprometido con lo que hago!!! y un apasionado por la tecnología e informática!!!*
+Escribeme a mi **[WhatSapp](https://acortar.link/RaulTrelles)**
 
 ```
 Ing. de Sistemas y Cómputo. Implementador líder de ERP´s  como (Odoo, Ofisis, Microsoft Navision Nav, Net Suite, 
