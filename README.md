@@ -13,4 +13,3 @@
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
-![]([💳 Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue))
