@@ -3,9 +3,9 @@
 *Soy muy comprometido con lo que hago!!! y un apasionado por la tecnología e informática!!!*
 
 ```
-Ing. de Sistemas y Cómputo. Implementador líder de ERP´s  como (Odoo, Ofisis, Microsoft Navision Nav, Net Suite, SAP, 
-SAP BO, Naf, IDSI, entre otros), Comencé a especializarme en Data Analytics, Trabajando en proyectos para almacenes aduaneros 
-en Perú Integrando MicroStrategy y SQL Server Integration Service.
+Ing. de Sistemas y Cómputo. Implementador líder de ERP´s  como (Odoo, Ofisis, Microsoft Navision Nav, Net Suite, 
+SAP, SAP BO, Naf, IDSI, entre otros), Comencé a especializarme en Data Analytics, Trabajando en proyectos para 
+almacenes aduaneros en Perú Integrando MicroStrategy y SQL Server Integration Service.
 
 Como DBA, he administrado base de datos como Microsoft SQL Server, Oracle , Mysql, PostgreSQL,  entre otras
 
