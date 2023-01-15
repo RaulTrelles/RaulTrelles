@@ -1,3 +1,17 @@
+# Hola!!! Como estas!!! 👩‍💻, Bienvenido a mi perfil, soy Raúl Trelles
+
+*Soy muy comprometido con todo lo que hago!!! y un apasionado por la tecnología e informática!!!*
+
+```
+✔️Soy Ing. de Sistemas y Cómputo. Implementador líder de ERP´s  como (Odoo, Ofisis, Microsoft Navision Nav, Net Suite, SAP, SAP BO, Naf, IDSI, entre otros), 
+Comencé a especializarme en Data Analytics, Trabajando en proyectos para almacenes aduaneros en Perú Integrando MicroStrategy y SQL Server Integration Service, tambien he participado de Proyectos como:
+
+* Analítica de Datos - Sector eléctrico, Desarrollando dashboard para gestión de Cobros a Clientes VIP agroexportadores.
+* Analitica de Datos - Sector Legal, Desarrollando dashboard para administración de Clientes Expatriados a Perú y la Gestión de Asistencia de llos trabajadores
+
+```
+
+
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
