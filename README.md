@@ -3,7 +3,7 @@
 *Soy muy comprometido con todo lo que hago!!! y un apasionado por la tecnología e informática!!!*
 
 ```
-✔️Soy Ing. de Sistemas y Cómputo. Implementador líder de ERP´s  como (Odoo, Ofisis, Microsoft Navision Nav, Net Suite, SAP, 
+Ing. de Sistemas y Cómputo. Implementador líder de ERP´s  como (Odoo, Ofisis, Microsoft Navision Nav, Net Suite, SAP, 
 SAP BO, Naf, IDSI, entre otros), Comencé a especializarme en Data Analytics, Trabajando en proyectos para almacenes aduaneros 
 en Perú Integrando MicroStrategy y SQL Server Integration Service.
 ```
