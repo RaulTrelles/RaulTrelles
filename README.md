@@ -6,8 +6,10 @@
 Ing. de Sistemas y Cómputo. Implementador líder de ERP´s  como (Odoo, Ofisis, Microsoft Navision Nav, Net Suite, SAP, 
 SAP BO, Naf, IDSI, entre otros), Comencé a especializarme en Data Analytics, Trabajando en proyectos para almacenes aduaneros 
 en Perú Integrando MicroStrategy y SQL Server Integration Service.
+
+Como DBA, he administrado base de datos como Microsoft SQL Server, Oracle , Mysql, PostgreSQL,  entre otras
 ```
-Tambien he participado de Proyectos como:
+*He participado de Proyectos de Data Analytics, como:*
 
 * Sector Servicios, Desarrollando dashboard para la gestión de Papeletas en la Municipalidad del Callao.
 * Sector eléctrico, Desarrollando dashboard con Reporting Services y SQL Server, para la gestión de Cobros a Clientes VIP agroexportadores.
