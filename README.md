@@ -8,6 +8,7 @@ SAP BO, Naf, IDSI, entre otros), Comencé a especializarme en Data Analytics, Tr
 en Perú Integrando MicroStrategy y SQL Server Integration Service.
 
 Como DBA, he administrado base de datos como Microsoft SQL Server, Oracle , Mysql, PostgreSQL,  entre otras
+
 ```
 *He participado de Proyectos de Data Analytics, como:*
 
