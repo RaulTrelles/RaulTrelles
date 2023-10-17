@@ -1,4 +1,4 @@
-# 💻 Hola!!! Como estas!!!, Bienvenido a mi perfil, te saluda Raúl Trelles
+# 💻 Hola!!! Como estas!!!, Bienvenido a mi perfil.
 
 *Soy muy comprometido con lo que hago!!! y un apasionado por la tecnología e informática!!!*
 Escribeme a mi **[WhatSapp](https://acortar.link/RaulTrelles)**
