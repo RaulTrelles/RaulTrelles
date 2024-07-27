@@ -13,7 +13,7 @@ Como DBA, he administrado base de datos como Microsoft SQL Server, Oracle , Mysq
 ```
 *He participado de Proyectos de Data Analytics, como:*
 
-* Sector Servicios, Desarrollando dashboard para la gestión de Papeletas en la Municipalidad del Callao.
+* Sector Servicios, Desarrollando dashboard para la gestión de Infracciones de Tránsito en la Municipalidad Provincial del Callao.
 * Sector eléctrico, Desarrollando dashboard con Reporting Services y SQL Server, para la gestión de Cobros a Clientes VIP agroexportadores.
 * Sector Legal, Desarrollando dashboard con Herramientas Open Source como Jaspersoft, para administración de Clientes Expatriados a Perú y 
   la Gestión de Asistencia de llos trabajadores
