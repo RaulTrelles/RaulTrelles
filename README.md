@@ -11,7 +11,7 @@ almacenes aduaneros en Perú Integrando MicroStrategy y SQL Server Integration S
 Como DBA, he administrado base de datos como Microsoft SQL Server, Oracle , Mysql, PostgreSQL,  entre otras
 
 ```
-*He participado de Proyectos de Data Analytics, como:*
+*He participado de Proyectos de Inteligencia de Negocios, como:*
 
 * Sector Servicios, Desarrollando dashboard para la gestión de Infracciones de Tránsito en la Municipalidad Provincial del Callao.
 * Sector eléctrico, Desarrollando dashboard con Reporting Services y SQL Server, para la gestión de Cobros a Clientes VIP agroexportadores.
