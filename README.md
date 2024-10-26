@@ -28,7 +28,7 @@ Como DBA, he administrado base de datos como Microsoft SQL Server, Oracle , Mysq
 * Sector Alimentos, Integrante del equipo de Diseño e Implementación de Data mark comercial de San Fernando, integrandolo con ODOO.
 
 ```
-Te invito a concoer más de mí, en : https://raultrelles.github.io/
+Te invito a concoer más de mí, en : [https://raultrelles.github.io/](https://raultrelles.github.io/)
 ```
 
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
