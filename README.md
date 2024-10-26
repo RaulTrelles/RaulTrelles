@@ -4,7 +4,10 @@
 Escribeme a mi **[WhatSapp](https://acortar.link/RaulTrelles)**
 
 ```
-Ingeniero de Sistemas y Cómputo, MBA con énfasis en Business Intelligence y Big Data, Certificado en Scrum Master, ITIL,  con una amplia experiencia en proyectos de tecnología en sectores como Servicios, Legal, Gobierno, Industrial, Logístico, Alimentos, Aduanero, Energía y Aeronáutico, he gestionado implementaciones y desarrollo de sistemas corporativos como ERP's, Soluciones de Inteligencia de Negocios, Data Analytics e implementaciones de infraestructuras de centro de cómputo y procesamiento para el sector Privado y Gobierno.
+Ingeniero de Sistemas y Cómputo, MBA con énfasis en Business Intelligence y Big Data, Certificado en Scrum Master, ITIL,  con una amplia experiencia
+en proyectos de tecnología en sectores como Servicios, Legal, Gobierno, Industrial, Logístico, Alimentos, Aduanero, Energía y Aeronáutico, he gestionado
+implementaciones y desarrollo de sistemas corporativos como ERP's, Soluciones de Inteligencia de Negocios, Data Analytics e implementaciones de
+infraestructuras de centro de cómputo y procesamiento para el sector Privado y Gobierno.
 
 Mi compromiso con la eficiencia se refleja en la generación de ahorro e ingresos para las organizaciones creando y mejorando procesos y sistemas, dinamizando las organizaciones. Mis habilidades en tecnologías como Python, Flutter y Node.JS entre otras, junto con un profundo conocimiento en bases de datos e infraestructura en tecnológica, me permiten generar valor, ahorro y optimizar los procesos en las empresas.
 
