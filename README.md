@@ -27,6 +27,10 @@ Como DBA, he administrado base de datos como Microsoft SQL Server, Oracle , Mysq
 * Sector Aduana, Diseño e Implementación de Sistema de Analítica de Datos y Notificación de deudas a Clientes Agencias de Carga y Agro Exportadores.
 * Sector Alimentos, Integrante del equipo de Diseño e Implementación de Data mark comercial de San Fernando, integrandolo con ODOO.
 
+```
+Te invito a concoer más de mí, en : https://raultrelles.github.io/
+```
+
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
